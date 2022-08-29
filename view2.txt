@@ -1,4 +1,4 @@
 create or replace view v1
 as
-select c1,c3
+select c1,c3+100
 from table;
