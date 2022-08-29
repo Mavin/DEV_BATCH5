@@ -1,0 +1,4 @@
+create or replace view v1
+as
+select c1
+from table;
